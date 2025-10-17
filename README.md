@@ -21,13 +21,13 @@ To run **Glowing** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo https://github.com/dhanushx123/e-commerce-site.git
+sudo https://github.com/sanjay369/e-commerce-site.git
 ```
 
 Windows:
 
 ```bash
-git https://github.com/dhanushx123/e-commerce-site.git
+git https://github.com/sanjay369/e-commerce-site.git
 ```
 
 
