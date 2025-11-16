@@ -4,7 +4,7 @@
 
 Glowing is a fully responsive ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-<a href="https://Sanjay9923.io/e-commerce-site/"><strong>➥ Live Demo</strong></a>
+<a href="https://Sanjay9923.github.io/e-commerce-site/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -35,3 +35,4 @@ git https://github.com/Sanjay9923/e-commerce-site.git
 ### License
 
 This project is **free to use** and does not contains any license.
+
