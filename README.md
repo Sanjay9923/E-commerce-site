@@ -21,15 +21,13 @@ To run **Glowing** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-git clone https://github.com/Sanjay9923/e-commerce-site.git
-
+sudo https://github.com/Sanjay9923/e-commerce-site.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Sanjay9923/e-commerce-site.git
-
+git https://github.com/Sanjay9923/e-commerce-site.git
 ```
 
 
@@ -37,4 +35,10 @@ git clone https://github.com/Sanjay9923/e-commerce-site.git
 ### License
 
 This project is **free to use** and does not contains any license.
+
+
+
+
+
+
 
