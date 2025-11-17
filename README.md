@@ -20,7 +20,7 @@ Glowing is a fully responsive ecommerce website, <br />
 <br />
 
 
-## Screenshot
+## Preview (Screenshot)
 
 ![Glowing Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
@@ -43,8 +43,8 @@ Glowing is a fully responsive ecommerce website, <br />
 
 
 ## Project structure
-
- E-commerce-site/
+```bash
+E-commerce-site/
 │
 ├── index.html          # Main webpage
 ├── favicon.ico         # Website icon
@@ -55,35 +55,36 @@ Glowing is a fully responsive ecommerce website, <br />
 ├── js/                 # JavaScript files
 │   └── script.js
 │
-└── readme-images/      # Screenshots for README
-    └── desktop.png
+└── images/             # Product or site images (recommended)
+```
 
 
 ## Getting Started
 
-To run **Glowing** locally, run this command on your git bash:
-
 1.**Clone the Repository**
 
-Linux / macOS
-
+Linux / macOS:
+```bash
 git clone https://github.com/Sanjay9923/E-commerce-site.git
+```
 
-Windows
-
+Windows:
+```bash
 git clone https://github.com/Sanjay9923/E-commerce-site.git
+```
 
 2.**Open the Project Folder**
-
+ ```bash  
 cd E-commerce-site
+```
 
 3.**Run the Website**
 
-Just open the file below in your browser:
-
+You don’t need any server.
+Just open this file in your browser:
+```bash
 index.html
-
-That’s it. The website will load immediately 
+```
 
 
 ## Technologies Used
